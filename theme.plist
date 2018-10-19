@@ -11,7 +11,7 @@
 		<key>Background</key>
 		<dict>
 			<key>Dark</key>
-			<true/>
+			<false/>
 			<key>Path</key>
 			<string>background.png</string>
 			<key>Type</key>
